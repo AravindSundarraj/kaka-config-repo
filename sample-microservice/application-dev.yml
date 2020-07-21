@@ -1,0 +1,13 @@
+server:
+  port: 7000
+  servlet:
+    context-path: /sample-microservice
+
+spring:
+  application:
+    name: sample-microservice
+
+
+kaka:
+  trigger: caps
+
